@@ -4,4 +4,4 @@ Steps :
 2.Double-click run.bat
 OR from the command line: python launcher.py
 
-finally it starts to listen your voice and opens the app you call to be opened.
+finally it starts to listen your voice and opens the app you call to be opened.For example, if you say "note pad", the Note pad app will be opened.
